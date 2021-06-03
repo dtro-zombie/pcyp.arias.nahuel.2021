@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "practica", "practica\practica.csproj", "{67233E2E-F657-493E-AFAB-B521D44E4280}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "fibonnaci", "fibonnaci\fibonnaci.csproj", "{FDF5F3D7-0122-4720-888D-41945EC8FD67}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApplication1", "ConsoleApplication1\ConsoleApplication1.csproj", "{AD82B305-64A2-459C-968A-BD462109952D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{67233E2E-F657-493E-AFAB-B521D44E4280}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{67233E2E-F657-493E-AFAB-B521D44E4280}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{67233E2E-F657-493E-AFAB-B521D44E4280}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{67233E2E-F657-493E-AFAB-B521D44E4280}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FDF5F3D7-0122-4720-888D-41945EC8FD67}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FDF5F3D7-0122-4720-888D-41945EC8FD67}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FDF5F3D7-0122-4720-888D-41945EC8FD67}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FDF5F3D7-0122-4720-888D-41945EC8FD67}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AD82B305-64A2-459C-968A-BD462109952D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD82B305-64A2-459C-968A-BD462109952D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD82B305-64A2-459C-968A-BD462109952D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD82B305-64A2-459C-968A-BD462109952D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
